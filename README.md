@@ -15,7 +15,7 @@ Before running the script, ensure you have the following:
 
 ```bash
 git clone https://github.com/AxlMrt/vscode-config
-cd vscode-setup
+cd vscode-config
 ```
 
 2. **Make the Setup Script Executable:**
@@ -23,7 +23,7 @@ cd vscode-setup
 Run the following command to make the setup script executable:
 
 ```bash
-chmod +x install_vscode.sh
+chmod +x install.sh
 ```
 
 3. **Run the Setup Script:**
